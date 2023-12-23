@@ -1,0 +1,11 @@
+,index,raceId,name_x_x,date_x,HAM_Mentions,VER_Mentions,LEC_Mentions,year,round,circuitId,name_x_y,date,time,max_verstappen,hamilton,leclerc,"('Dominant_Sentiment_Percentage', 'hamilton')","('Dominant_Sentiment_Percentage', 'leclerc')","('Dominant_Sentiment_Percentage', 'max_verstappen')","('Dominant_Sentiment', 'hamilton')","('Dominant_Sentiment', 'leclerc')","('Dominant_Sentiment', 'max_verstappen')"
+0,0,1051,Qatar Grand Prix,2021-11-21,2941,3175,280,2021,20,78,Qatar Grand Prix,2021-11-21,14:00:00,2,1,8,46.34389320581789,51.81518151815182,36.71285739343975,Positive,Positive,Positive
+1,1,1062,Hungarian Grand Prix,2021-08-01,7253,2635,456,2021,11,11,Hungarian Grand Prix,2021-08-01,13:00:00,9,2,\N,39.309558703794174,37.352555701179554,35.97276264591439,Positive,Negative,Negative
+2,2,1064,Dutch Grand Prix,2021-09-05,2558,3296,252,2021,13,39,Dutch Grand Prix,2021-09-05,13:00:00,1,2,5,47.23604201216142,54.06360424028268,51.66051660516605,Positive,Positive,Positive
+3,3,1069,United States Grand Prix,2021-10-24,3347,3914,330,2021,17,69,United States Grand Prix,2021-10-24,19:00:00,1,2,4,45.701254275940705,52.806122448979586,47.115573931876355,Positive,Positive,Positive
+4,4,1070,Mexico City Grand Prix,2021-11-07,2209,2338,353,2021,18,32,Mexico City Grand Prix,2021-11-07,19:00:00,1,2,5,44.80460466525295,49.11764705882353,51.138303927148556,Positive,Positive,Positive
+5,5,1071,São Paulo Grand Prix,2021-11-14,7862,4240,290,2021,19,18,São Paulo Grand Prix,2021-11-14,17:00:00,2,1,5,42.42592739693383,50.4885993485342,37.784330244313395,Positive,Positive,Positive
+6,6,1072,Saudi Arabian Grand Prix,2021-12-05,8918,11966,396,2021,21,77,Saudi Arabian Grand Prix,2021-12-05,17:30:00,2,1,7,36.411534757237554,35.196374622356494,39.56896182355714,Negative,Negative,Negative
+7,7,1073,Abu Dhabi Grand Prix,2021-12-12,16905,20200,482,2021,22,24,Abu Dhabi Grand Prix,2021-12-12,13:00:00,1,2,10,42.443581206067336,48.96265560165975,44.85431532449881,Positive,Positive,Positive
+8,8,1075,Saudi Arabian Grand Prix,2022-03-27,525,1783,1237,2022,2,77,Saudi Arabian Grand Prix,2022-03-27,17:00:00,1,10,2,41.45420207743154,41.639463184620965,41.4281744929147,Positive,Positive,Positive
+9,9,1083,British Grand Prix,2022-07-03,3778,2217,2508,2022,10,9,British Grand Prix,2022-07-03,14:00:00,7,3,4,40.81325301204819,34.61354961832061,36.16144975288303,Positive,Positive,Negative
