@@ -2,7 +2,7 @@
 Sentiment Analysis of F1 Tweets for the 2021-22 Season
 
 
-The Analysis.pdf contains the Questions formed for analysis and an indepth analysis of them with inferences.
+The F1 Tweets with Races Sentiment Analysis.pdf contains the Questions formed for analysis and an indepth analysis of them with inferences.
 
 The src has 
 1. Data, and
